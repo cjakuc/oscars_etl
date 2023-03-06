@@ -10,4 +10,4 @@
 - Films with budgets in currencies other than USD were dropped
 
 ## Files
-- The files are unchanging. If they were already downlaoded then they don't need to be downloaded again.
+- The files are unchanging. If they were already downloaded then they don't need to be downloaded again.
